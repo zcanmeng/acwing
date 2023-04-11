@@ -1,5 +1,8 @@
 /**
- * Definition for singly-linked list.
+ *输入一个链表的头结点，按照 从尾到头 的顺序返回节点的值。
+ *返回的结果用数组存储 
+ *
+ *Definition for singly-linked list.
  * struct ListNode {
  *     int val;
  *     struct ListNode *next;
